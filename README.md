@@ -51,3 +51,6 @@ DRF tutorial API REST
 
 
 ```bash
+
+https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/
+
